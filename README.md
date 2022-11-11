@@ -2,7 +2,7 @@
 
 ## integrantes
 
-- Thiago Delgado
+- Thiago Delgado, 18, Avellaneda
 - Gabriel Lanzillotti
 - Emir Tomn, 20, Cerro Cora
 - Victoria Hofstetter
