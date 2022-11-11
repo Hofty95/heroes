@@ -4,5 +4,5 @@
 
 - Thiago Delgado
 - Gabriel Lanzillotti
-- Emir Tomn
+- Emir Tomn, 20, Cerro Cora
 - Victoria Hofstetter
